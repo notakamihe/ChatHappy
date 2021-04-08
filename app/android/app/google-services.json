@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417230791521",
+    "project_id": "chathappy-notifications",
+    "storage_bucket": "chathappy-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417230791521:android:5569c9147de97053b0db20",
+        "android_client_info": {
+          "package_name": "com.michaelakamihe.chathappynotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417230791521-hp5olmhddiidh2pvcl43bfji8qch3vk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXcXi8D9NelZ6AALtVO4j2Dl5UG0K1MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417230791521-hp5olmhddiidh2pvcl43bfji8qch3vk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

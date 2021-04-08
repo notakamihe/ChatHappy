@@ -20,5 +20,5 @@
     "nodemon": "^2.0.7",
     "socket.io": "^4.0.1"
   },
-  "proxy": "http://localhost:8000"
+  "proxy": "https://chathappybe.herokuapp.com/"
 }

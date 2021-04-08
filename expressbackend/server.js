@@ -62,4 +62,4 @@ io.on("connection", socket => {
     })
 })
 
-http.listen(8000, () => console.log(`Server started on port ${PORT}`))
+http.listen(PORT, () => console.log(`Server started on port ${PORT}`))
